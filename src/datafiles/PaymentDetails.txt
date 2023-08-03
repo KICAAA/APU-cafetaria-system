@@ -1,0 +1,8 @@
+trishant@gmail.com,440.0
+md@gmail.com,440.0
+sandesh@gmail.com,440.0
+md@gmail.com,0.0
+raju@gmail.com,20.0
+sandesh@gmail.com,300.0
+sandesh@gmail.com,100.0
+,1090.0

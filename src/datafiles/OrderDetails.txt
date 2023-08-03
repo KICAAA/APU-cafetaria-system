@@ -1,0 +1,16 @@
+trishant@gmail.com,momo,1,100.0
+sandesh@gmail.com,momo,0,100.0
+raju@gmail.com,momo,0,100.0
+md@gmail.com,momo,1,100.0
+trishant@gmail.com,tea,1,20.0
+raju@gmail.com,momo,2,100.0
+sandesh@gmail.com,tea,2,20.0
+md@gmail.com,momo,2,100.0
+trishant@gmail.com,tea,1,20.0
+sandesh@gmail.com,momo,3,100.0
+md@gmail.com,momo,1,100.0
+trishant@gmail.com,momo,2,100.0
+,Coffee,1,50.0
+,Divine,1,770.0
+,Chicken  Momo,1,170.0
+,Ice Cream,1,100.0

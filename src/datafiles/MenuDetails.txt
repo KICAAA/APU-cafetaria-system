@@ -1,0 +1,9 @@
+1,Tea,40.0
+2,Coffee,50.0
+3,Soda,70.0
+4,Veg momo,120.0
+5,Chicken  Momo,170.0
+6,Chowmin,160.0
+7,Pasta,150.0
+8,Divine,770.0
+9,Ice Cream,100.0

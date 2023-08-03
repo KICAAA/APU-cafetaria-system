@@ -1,0 +1,4 @@
+Trishant,Thapa,9864513655,trixbaula@gmail.com,kicaatati,kicaatati
+MD,mustak,9864513655,md@gmail.com,md,md
+Raju,thapa,98531651,raju@gmail.com,raju,raju
+Sandesh,singh,981651531,sandesh@gmail.com,sandesh,sandesh
